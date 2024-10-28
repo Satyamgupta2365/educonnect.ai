@@ -1,0 +1,5 @@
+google-generativeai
+PIL.Image
+os
+streamlit as st
+groq
